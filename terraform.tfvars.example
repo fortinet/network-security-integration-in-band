@@ -1,0 +1,11 @@
+# Essential configuration variables
+prefix = "demofgt-nsi"
+
+# GCP Project ID for main resources Producer
+producer_project_id = ""
+
+# GCP Project ID for consumer VPC and related resources (optional)
+consumer_project_id = ""
+
+# GCP Organization ID 
+organization_id = ""
