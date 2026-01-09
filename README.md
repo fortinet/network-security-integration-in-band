@@ -14,7 +14,7 @@ NSI out-of-band Deployment and NSI In-band Integration. This article is focused 
 
 NSI operates in a Producer- Consumer Model where the FortiGates are deployed in the producer infrastructure and exposed as a service for the consumers to subscribe to the service.  The consumer after subscribing to the Producer's service  uses firewall policies to route the traffic for inspection for the application traffic as they see fit. The delineation helps the customer to achieve consistent security posture across multiple workloads across VPCs/projects in the same Organization.
 
-The following diragem outlines how different components of Google cloud is integrated with FortiGate(s) for this architecture.
+The following diagram outlines how different components of Google cloud is integrated with FortiGate(s) for this architecture.
 
 ![Network Diagram](./documentation/images/NSI_us-east1.jpg)
 
